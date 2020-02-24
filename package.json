@@ -1,6 +1,6 @@
 {
   "name": "citl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "i am too tired to write console.log or window.console.log",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m3alamin/console-shortcut.git"
+    "url": "git+https://github.com/m3alamin/citl.git"
   },
   "keywords": [
     "console.log"
@@ -16,7 +16,7 @@
   "author": "MD AL AMIN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/m3alamin/console-shortcut/issues"
+    "url": "https://github.com/m3alamin/citl/issues"
   },
-  "homepage": "https://github.com/m3alamin/console-shortcut#readme"
+  "homepage": "https://github.com/m3alamin/citl#readme"
 }
