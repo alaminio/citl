@@ -1,0 +1,22 @@
+{
+  "name": "citl",
+  "version": "1.0.0",
+  "description": "i am too tired to write console.log or window.console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3alamin/console-shortcut.git"
+  },
+  "keywords": [
+    "console.log"
+  ],
+  "author": "MD AL AMIN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m3alamin/console-shortcut/issues"
+  },
+  "homepage": "https://github.com/m3alamin/console-shortcut#readme"
+}
