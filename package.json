@@ -1,6 +1,6 @@
 {
   "name": "citl",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "i am too tired to write console.log or window.console.log",
   "main": "index.js",
   "scripts": {
