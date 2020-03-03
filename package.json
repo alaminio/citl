@@ -1,10 +1,10 @@
 {
   "name": "citl",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "i am too tired to write console.log or window.console.log",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.test.js"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,3 @@
 module.exports = (function() {
-  if (typeof window === "undefined") {
-    return console.log;
-  }
-  return window.console.log;
+  return typeof window == "undefined" ? console.log : window.console.log;
 })();
